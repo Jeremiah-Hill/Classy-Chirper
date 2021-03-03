@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(65, 212, 238);
+    text-align: center;
+}
+
+.card {
+    border: 1px solid black;
+}
