@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Timeline from './components/Timeline';
-import Felix from './assets/username-icon-hd.png';
+import Icon from './assets/username-icon-hd.png';
 import PostIcon from './assets/post.png';
 
 const App = () => {
