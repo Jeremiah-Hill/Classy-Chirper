@@ -1,8 +1,26 @@
 body {
-    background-color: rgb(65, 212, 238);
-    text-align: center;
+  background-color: rgb(221, 203, 250)
 }
 
-.card {
-    border: 1px solid black;
+.navbar {
+  position: fixed;
+  top: 0;
+}
+
+#felix,
+#post {
+  width: 1.2vw;
+}
+
+.input-group {
+  margin-bottom: 3vh;
+}
+
+#input-box {
+  margin-left: 2vw;
+  margin-top: 2vw;
+}
+#chirp-box {
+  margin-left: 6vw;
+  margin-top: 2vw;
 }
